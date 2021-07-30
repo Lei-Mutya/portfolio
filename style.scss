@@ -124,7 +124,7 @@ nav
 /*SKILLSETS STYLES*/
 .bg-skillsets
 {
-  background-color:white;
+  background-color:$backcolor_even;
 }
 .skill-header
 {
@@ -143,7 +143,7 @@ nav
 }
 .accordion-button
 {
-  background-color:black!important;
+  background-color:$backcolor_odd;
   color:white!important;
   font-size:22px!important;
 }
